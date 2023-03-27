@@ -6,6 +6,10 @@
 
 2) Imprimir un listado con los números impares desde 1 hasta 999 y seguidamente otro listado con los números pares desde 2 hasta 1000.
 
+
+![Punto 2, reto 7](https://user-images.githubusercontent.com/124641609/227821129-b33d9fcf-c50d-45fd-bf20-7e5da7713711.JPG)
+
+
 ---
 
 3) Imprimir los números pares en forma descendente hasta 2 que son menores o iguales a un número natural n ≥ 2 dado
