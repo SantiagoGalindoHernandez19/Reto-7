@@ -31,9 +31,14 @@
 
 5) Imprimir el factorial de un numero natural n dado.
 
+![Punto 5, reto 7](https://user-images.githubusercontent.com/124641609/227838759-e0848456-dd38-4e15-bea4-e00a0c035dba.JPG)
+
+
 ---
 
 6) Implementar un algoritmo que permita adivinar un número dado de 1 a 100, preguntando en cada caso si el número es mayor, menor o igual.
+
+
 
 
 ---
@@ -43,4 +48,7 @@
 ---
 
 8) Implementar el algoritmo que muestre los números primos del 1 al 100. nota: use funciones
+
+![Punto 8, reto 7](https://user-images.githubusercontent.com/124641609/227840749-2f5e76af-ce2f-42b3-bbb8-625cf5ef65dd.JPG)
+
 
