@@ -17,9 +17,14 @@
 
 3) Imprimir los números pares en forma descendente hasta 2 que son menores o iguales a un número natural n ≥ 2 dado
 
+![Punto 3, reto 7](https://user-images.githubusercontent.com/124641609/227827576-275c1292-5569-4f7e-b80b-c8093ae7ff80.JPG)
+
+
 ---
 
-4)En 2022 el país A tendrá una población de 25 millones de habitantes y el país B de 18:9 millones. Las tasas de crecimiento anual de la población serán de 2% y 3% respectivamente. Desarrollar un algoritmo para informar en que año la población del país B superará a la de A.
+4)En 2022 el país A tendrá una población de 25 millones de habitantes y el país B de 18:9 millones. Las tasas de crecimiento anual de la población serán de 2% y 3% respectivamente. Desarrollar un algoritmo para informar en que año la población del país B superará a la de A 
+
+
 
 ---
 
