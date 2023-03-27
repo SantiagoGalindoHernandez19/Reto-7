@@ -2,6 +2,9 @@
 
 1) Imprimir un listado con los números del 1 al 100 cada uno con su respectivo cuadrado.
 
+![punto 1, reto 7](https://user-images.githubusercontent.com/124641609/227823048-587494d0-c963-47df-8b1a-473adaf7a301.JPG)
+
+
 ---
 
 2) Imprimir un listado con los números impares desde 1 hasta 999 y seguidamente otro listado con los números pares desde 2 hasta 1000.
