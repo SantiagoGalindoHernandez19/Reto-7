@@ -45,6 +45,8 @@
 
 7)Implementar un programa que ingrese un número de 2 a 50 y muestre sus divisores.
 
+
+
 ---
 
 8) Implementar el algoritmo que muestre los números primos del 1 al 100. nota: use funciones
