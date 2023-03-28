@@ -4,6 +4,8 @@
 
 ![punto 1, reto 7](https://user-images.githubusercontent.com/124641609/227823048-587494d0-c963-47df-8b1a-473adaf7a301.JPG)
 
+![punto 1 diagraa](https://user-images.githubusercontent.com/124641609/228108648-cbb4c0f7-832d-433c-8cfc-cceedd2ea9cb.jpg)
+
 
 ---
 
