@@ -14,6 +14,8 @@
 
 ![Punto 2, reto 7](https://user-images.githubusercontent.com/124641609/227821129-b33d9fcf-c50d-45fd-bf20-7e5da7713711.JPG)
 
+![Punto 2 diagrama (1)](https://user-images.githubusercontent.com/124641609/228109610-5a57fd94-23d9-4c7c-b855-583ed0cb68bf.jpg)
+
 
 ---
 
