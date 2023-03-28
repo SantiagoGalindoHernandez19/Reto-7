@@ -38,6 +38,7 @@
 
 6) Implementar un algoritmo que permita adivinar un número dado de 1 a 100, preguntando en cada caso si el número es mayor, menor o igual.
 
+![punto 6, reto 7](https://user-images.githubusercontent.com/124641609/228098339-676033d9-5aad-4274-9cc8-e06bf4035d13.JPG)
 
 
 
