@@ -46,6 +46,9 @@
 7)Implementar un programa que ingrese un número de 2 a 50 y muestre sus divisores.
 
 
+![Punto 7, reto 7](https://user-images.githubusercontent.com/124641609/228097424-920c8f90-c32d-48f1-8616-e298ae3abc02.JPG)
+
+
 
 ---
 
