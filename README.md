@@ -23,6 +23,8 @@
 
 ![Punto 3, reto 7](https://user-images.githubusercontent.com/124641609/227827576-275c1292-5569-4f7e-b80b-c8093ae7ff80.JPG)
 
+![punto 3, diagrama](https://user-images.githubusercontent.com/124641609/228111068-a49be763-dbbd-41dc-b0c5-dcb68af3d07b.jpg)
+
 
 ---
 
